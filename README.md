@@ -1,1 +1,1 @@
-Mérő László Mesterséges intelligencia tudományos stand up előadásából merített ötlet alapján készített amőba játékot tanuló AI random forest algoritmussal.
+Amőba játékot tanuló AI, mely (kézzel írt és szabályzott) random forest algortimust valósít meg. A projekt Mérő László Mesterséges intelligencia tudományos standup elődasából merített ötlet alapján készült.
